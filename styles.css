@@ -2530,16 +2530,11 @@ h1, h2, h3, h4, h5, h6 {
     .footer-content {
         gap: 1.5rem;
     }
-}
-
-    .full-panel-name {
-        font-size: 2rem;
-        letter-spacing: 0.5px;
-    }
-
+    
     .team-grid {
         grid-template-columns: 1fr;
     }
+}
     
     .team-member.featured::before,
     .team-member.women-featured::before {
