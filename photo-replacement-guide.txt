@@ -1,0 +1,69 @@
+PHOTO REPLACEMENT GUIDE - Copy and paste these replacements in your text editor
+
+=== FEATURED LEADERS ===
+Find: https://via.placeholder.com/200x250/ff6b35/FFFFFF?text=Krishna+Tripathi
+Replace: photos/krishna-tripathi.jpg
+
+Find: https://via.placeholder.com/200x250/f7931e/FFFFFF?text=Amol+Arsad
+Replace: photos/amol-arsad.jpg
+
+Find: https://via.placeholder.com/200x250/ff8f00/FFFFFF?text=Bhoyar+Aniket
+Replace: photos/bhoyar-aniket.jpg
+
+=== WOMEN LEADERS ===
+Find: https://via.placeholder.com/200x250/e91e63/FFFFFF?text=Sangeeta+Guha
+Replace: photos/sangeeta-guha.jpg
+
+Find: https://via.placeholder.com/200x250/9c27b0/FFFFFF?text=Sudeshna+Ghosh
+Replace: photos/sudeshna-ghosh.jpg
+
+Find: https://via.placeholder.com/200x250/673ab7/FFFFFF?text=Pratima+Chormale
+Replace: photos/pratima-chormale.jpg
+
+=== COMPLETE TEAM ===
+Find: https://via.placeholder.com/200x250/ff6b35/FFFFFF?text=Sagar+Thakare
+Replace: photos/sagar-thakare.jpg
+
+Find: https://via.placeholder.com/200x250/f7931e/FFFFFF?text=Suraj+Gadekar
+Replace: photos/suraj-gadekar.jpg
+
+Find: https://via.placeholder.com/200x250/ff8f00/FFFFFF?text=Anand+Shinde
+Replace: photos/anand-shinde.jpg
+
+Find: https://via.placeholder.com/200x250/ffc107/FFFFFF?text=Suchit+Ovhal
+Replace: photos/suchit-ovhal.jpg
+
+Find: https://via.placeholder.com/200x250/ff6b35/FFFFFF?text=Darshan+Borse
+Replace: photos/darshan-borse.jpg
+
+Find: https://via.placeholder.com/200x250/f7931e/FFFFFF?text=Abhishek+Kumar
+Replace: photos/abhishek-kumar.jpg
+
+Find: https://via.placeholder.com/200x250/ff8f00/FFFFFF?text=Himanshu+Odak
+Replace: photos/himanshu-odak.jpg
+
+Find: https://via.placeholder.com/200x250/f7931e/FFFFFF?text=Abhinav+Whatte
+Replace: photos/abhinav-whatte.jpg
+
+Find: https://via.placeholder.com/200x250/ff8f00/FFFFFF?text=Ashutosh+Kotkar
+Replace: photos/ashutosh-kotkar.jpg
+
+Find: https://via.placeholder.com/200x250/ffc107/FFFFFF?text=Sujit+Vhanawade
+Replace: photos/sujit-vhanawade.jpg
+
+Find: https://via.placeholder.com/200x250/ff6b35/FFFFFF?text=Akshay+Kamble
+Replace: photos/akshay-kamble.jpg
+
+Find: https://via.placeholder.com/200x250/f7931e/FFFFFF?text=Anand+Bhagwat
+Replace: photos/anand-bhagwat.jpg
+
+Find: https://via.placeholder.com/200x250/ff8f00/FFFFFF?text=Shailesh+Surwade
+Replace: photos/shailesh-surwade.jpg
+
+=== QUICK STEPS ===
+1. Create a 'photos' folder in your manhattan-campaign directory
+2. Save all team member photos in that folder with the names above
+3. Open index.html in a text editor
+4. Use Find & Replace (Ctrl+H) to replace each placeholder URL
+5. Save the file
+6. Open index.html in browser to see the real photos!

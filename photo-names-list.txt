@@ -1,0 +1,70 @@
+📸 PHOTO NAMES LIST - Manhattan Jan Kalyan Panel
+==================================================
+
+Save your team member photos with these exact names in a 'photos' folder:
+
+🌟 FEATURED LEADERS (Priority - Top Section)
+===========================================
+1. krishna-tripathi.jpg
+2. amol-arsad.jpg  
+3. bhoyar-aniket.jpg
+
+🌟 WOMEN LEADERS (Special Section)
+=================================
+4. sangeeta-guha.jpg
+5. sudeshna-ghosh.jpg
+6. pratima-chormale.jpg
+
+👥 COMPLETE TEAM (All Other Members)  
+===================================
+7. sagar-thakare.jpg
+8. suraj-gadekar.jpg
+9. anand-shinde.jpg
+10. suchit-ovhal.jpg
+11. darshan-borse.jpg
+12. abhishek-kumar.jpg
+13. himanshu-odak.jpg
+14. abhinav-whatte.jpg
+15. ashutosh-kotkar.jpg
+16. sujit-vhanawade.jpg
+17. akshay-kamble.jpg
+18. anand-bhagwat.jpg
+19. shailesh-surwade.jpg
+
+📁 FOLDER STRUCTURE:
+===================
+manhattan-campaign/
+├── photos/
+│   ├── krishna-tripathi.jpg
+│   ├── amol-arsad.jpg
+│   ├── bhoyar-aniket.jpg
+│   ├── sangeeta-guha.jpg
+│   ├── sudeshna-ghosh.jpg
+│   ├── pratima-chormale.jpg
+│   ├── sagar-thakare.jpg
+│   ├── suraj-gadekar.jpg
+│   ├── anand-shinde.jpg
+│   ├── suchit-ovhal.jpg
+│   ├── darshan-borse.jpg
+│   ├── abhishek-kumar.jpg
+│   ├── himanshu-odak.jpg
+│   ├── abhinav-whatte.jpg
+│   ├── ashutosh-kotkar.jpg
+│   ├── sujit-vhanawade.jpg
+│   ├── akshay-kamble.jpg
+│   ├── anand-bhagwat.jpg
+│   └── shailesh-surwade.jpg
+├── index.html
+├── styles.css
+└── script.js
+
+📝 INSTRUCTIONS:
+===============
+1. Create a 'photos' folder
+2. Extract/save team photos from your campaign materials
+3. Rename photos to match the exact names above
+4. Recommended size: 200x250 pixels (portrait)
+5. Use JPG format for best compatibility
+6. Keep file names lowercase with hyphens (as shown)
+
+💡 TIP: Use small file sizes (under 500KB each) for faster website loading
